@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://maphysma.github.io/sitemap.xml
